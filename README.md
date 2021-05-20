@@ -3,9 +3,9 @@ Bot for sending expeditions in OGame.
 
 ## Installation
 
-Click on **Code** on this page and download the .zip file. Desarchive the files. 
-You may also need to install python3 from www.python.org.
-Open main.py with a text editor (notepad works too) and replace **YOUR EMAIL** and **YOUR PASSWORD** with your login details. 
+* Click on **Code** on this page and download the .zip file. Desarchive the files. 
+* You may also need to install python3 from www.python.org.
+* Open main.py with a text editor (notepad works too) and replace **YOUR EMAIL** and **YOUR PASSWORD** with your login details. 
 
 ## HOW TO RUN
 
