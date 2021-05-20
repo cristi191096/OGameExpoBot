@@ -124,7 +124,7 @@ def main(argv):
     for key, value in formation.items():
         print(key, " : ", value)
 
-    service = Service('C:\Drivers\web\chromedriver')
+    service = Service('chromedriver')
     service.start()
 
     browser = webdriver.Remote(service.service_url)
